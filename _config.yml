@@ -64,7 +64,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "sohiwt"
+  name   : "sohwit"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Software Engineer"
   links:
