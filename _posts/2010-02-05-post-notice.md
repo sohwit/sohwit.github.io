@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "예시 Post: Notice"
 categories:
   - Blog
 tags:

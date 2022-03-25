@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "예시 Post: Quote"
 categories:
   - Blog
 tags:
