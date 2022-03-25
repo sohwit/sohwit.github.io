@@ -92,7 +92,7 @@ defaults:
     values:
       layout: single
       author_profile: false # 왼쪽 사이드바에 저자 표기
-      read_time: true
+      read_time: false # 읽는 데 걸리는 예상 시간
       comments: true
       share: false
       related: true
