@@ -94,7 +94,7 @@ defaults:
       author_profile: false # 왼쪽 사이드바에 저자 표기
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
       toc_ads: true
       toc_sticky: true
